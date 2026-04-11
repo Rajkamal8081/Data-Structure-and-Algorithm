@@ -24,4 +24,4 @@ public class array {
     
 }
 
-//preforming array opreation like create update delete and 
+//preforming array opreation like create update delete and
